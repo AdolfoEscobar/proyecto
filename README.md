@@ -22,7 +22,7 @@ Describe los pasos necesarios para instalar las dependencias y configurar el ent
 ```bash
 git clone https://github.com/AdolfoEscobar/proyecto.git
 cd proyecto
-```bash
+bash```
 
 # Instalar dependencias
 ```bash

@@ -24,39 +24,40 @@ git clone https://github.com/AdolfoEscobar/proyecto.git
 cd proyecto
 
 # Instalar dependencias
+```bash
 npm install
-Uso
+
+# Uso
 Instrucciones para ejecutar el proyecto y algunos ejemplos de uso.
 
-bash
-Copy code
+```bash
 npm start
-Tests
+
+# Tests
 Instrucciones para ejecutar los tests automatizados:
 
-bash
-Copy code
+```bash
 npm test
-Despliegue
-Notas adicionales sobre cómo desplegar el proyecto en un entorno de producción.
 
-Construido con
+
+# Construido con
 Dropwizard - El framework web utilizado
 Maven - Gestión de dependencias
 ROME - Utilizado para generar feeds RSS
-Contribuyendo
+
+# Contribuyendo
 Por favor lee el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
 
-Versionado
+# Versionado
 Usamos SemVer para el versionado. Para las versiones disponibles, mira los tags en este repositorio.
 
-Autores
+# Autores
 Billie Thompson - Trabajo inicial - PurpleBooth
 También puedes ver la lista de todos los contribuyentes que han participado en este proyecto.
 
-Licencia
+# Licencia
 Este proyecto está licenciado bajo la Licencia MIT - mira el archivo LICENSE.md para más detalles.
 
-Agradecimientos
+# Agradecimientos
 A cualquier persona cuyo código fue utilizado
 Inspiraciones, etc.

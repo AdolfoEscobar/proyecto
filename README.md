@@ -19,20 +19,26 @@ Una breve descripción del proyecto y su propósito.
 ### Describe los pasos necesarios para instalar las dependencias y configurar el entorno de desarrollo:
 
 # Instalación
+```bash
 git clone https://github.com/AdolfoEscobar/proyecto.git
 cd proyecto
+```
 
 # Instalar dependencias
+```bash
 npm install
+```
 
 # Uso
 Instrucciones para ejecutar el proyecto y algunos ejemplos de uso.
+```bash
 npm start
-
+```
 # Tests
 Instrucciones para ejecutar los tests automatizados:
+```bash
 npm test
-
+```
 # Construido con
 Dropwizard - El framework web utilizado
 Maven - Gestión de dependencias

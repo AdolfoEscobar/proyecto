@@ -17,17 +17,16 @@ Una breve descripción del proyecto y su propósito.
 
 # Instalación
 
-Describe los pasos necesarios para instalar las dependencias y configurar el entorno de desarrollo:
+### Describe los pasos necesarios para instalar las dependencias y configurar el entorno de desarrollo:
 
-
+```bash
 git clone https://github.com/AdolfoEscobar/proyecto.git
 cd proyecto
-bash```
+
 
 # Instalar dependencias
 ```bash
 npm install
-```bash
 
 # Uso
 Instrucciones para ejecutar el proyecto y algunos ejemplos de uso.

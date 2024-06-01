@@ -19,7 +19,7 @@ Una breve descripción del proyecto y su propósito.
 
 Describe los pasos necesarios para instalar las dependencias y configurar el entorno de desarrollo:
 
-```bash
+
 git clone https://github.com/AdolfoEscobar/proyecto.git
 cd proyecto
 bash```

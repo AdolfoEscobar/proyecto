@@ -15,33 +15,23 @@ Una breve descripción del proyecto y su propósito.
 - [Licencia](#licencia)
 - [Agradecimientos](#agradecimientos)
 
-# Instalación
 
 ### Describe los pasos necesarios para instalar las dependencias y configurar el entorno de desarrollo:
 
-```bash
+# Instalación
 git clone https://github.com/AdolfoEscobar/proyecto.git
 cd proyecto
 
-
 # Instalar dependencias
-```bash
 npm install
 
 # Uso
 Instrucciones para ejecutar el proyecto y algunos ejemplos de uso.
-
-```bash
 npm start
-```bash
 
 # Tests
 Instrucciones para ejecutar los tests automatizados:
-
-```bash
 npm test
-```bash
-
 
 # Construido con
 Dropwizard - El framework web utilizado

@@ -1,56 +1,62 @@
-Project Title
-One Paragraph of project description goes here
+# Nombre del Proyecto
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Una breve descripción del proyecto y su propósito.
 
-Prerequisites
-What things you need to install the software and how to install them
+## Tabla de Contenidos
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Tests](#tests)
+- [Despliegue](#despliegue)
+- [Construido con](#construido-con)
+- [Contribuyendo](#contribuyendo)
+- [Versionado](#versionado)
+- [Autores](#autores)
+- [Licencia](#licencia)
+- [Agradecimientos](#agradecimientos)
 
-Say what the step will be
+## Instalación
 
-Give the example
-And repeat
+Describe los pasos necesarios para instalar las dependencias y configurar el entorno de desarrollo:
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+```bash
+git clone https://github.com/AdolfoEscobar/proyecto.git
+cd proyecto
 
-Running the tests
-Explain how to run the automated tests for this system
+# Instalar dependencias
+npm install
+Uso
+Instrucciones para ejecutar el proyecto y algunos ejemplos de uso.
 
-Break down into end to end tests
-Explain what these tests test and why
+bash
+Copy code
+npm start
+Tests
+Instrucciones para ejecutar los tests automatizados:
 
-Give an example
-And coding style tests
-Explain what these tests test and why
+bash
+Copy code
+npm test
+Despliegue
+Notas adicionales sobre cómo desplegar el proyecto en un entorno de producción.
 
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
+Construido con
+Dropwizard - El framework web utilizado
+Maven - Gestión de dependencias
+ROME - Utilizado para generar feeds RSS
+Contribuyendo
+Por favor lee el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
 
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Versionado
+Usamos SemVer para el versionado. Para las versiones disponibles, mira los tags en este repositorio.
 
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+Autores
+Billie Thompson - Trabajo inicial - PurpleBooth
+También puedes ver la lista de todos los contribuyentes que han participado en este proyecto.
 
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+Licencia
+Este proyecto está licenciado bajo la Licencia MIT - mira el archivo LICENSE.md para más detalles.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+Agradecimientos
+A cualquier persona cuyo código fue utilizado
+Inspiraciones, etc.
